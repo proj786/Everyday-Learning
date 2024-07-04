@@ -1,0 +1,56 @@
+Day 1 - SQL: 20 most asked basic SQL interview questions for a data analyst role 👇
+
+📍 What is SQL and why is it important for data analysis?
+
+    SQL (Structured Query Language) is a standard programming language used for managing and querying data in relational databases. It plays a crucial role in data analysis for several reasons:
+
+Data Retrieval: SQL allows analysts to retrieve specific data from databases, making it easy to extract relevant information for analysis.
+Data Manipulation: Analysts can modify and transform data using SQL. This includes tasks like filtering, sorting, and aggregating data.
+Data Integration: SQL enables combining data from multiple tables or sources, essential for comprehensive analysis.
+Data Aggregation and Summarization: Analysts can summarize data using functions like COUNT, SUM, AVG, etc., providing insights into patterns and trends.
+Data Cleaning and Transformation: SQL helps clean and preprocess data by removing duplicates, handling missing values, and transforming data into a usable format.
+Scalability and Standardization: SQL scales well for large datasets and ensures consistency across data operations.
+Performance Optimization: Efficient SQL queries enhance data analysis speed, critical for real-time decision-making.
+
+
+
+📍 Explain the difference between SQL, MySQL, and SQL Server.
+
+
+Sent by Copilot:
+Certainly! Let’s delve into the differences between SQL, MySQL, and SQL Server:
+
+SQL (Structured Query Language):
+SQL is a standard language used to manage databases. It provides a consistent way to query, manipulate, and interact with relational databases.
+It’s not a specific database system but rather a language that various database management systems (DBMS) use.
+SQL syntax is similar across most RDBMS software, with minor variations.
+MySQL:
+MySQL is a specific type of RDBMS (Relational Database Management System) that uses SQL as its standard query language.
+Developed in the mid-90s, MySQL remains one of the first and most popular open-source database systems.
+Known for its scalability, performance, and open-source availability.
+Designed for smaller, lightweight applications and performs well in transactional and lightweight scenarios.
+Uses the MySQL language for queries.
+SQL Server (Microsoft SQL Server):
+Developed by Microsoft in the 80s, SQL Server has been around longer than MySQL.
+Widely used in large-scale enterprises due to its scalability and reliability.
+Offers tools like SQL Server Integration Services (SSIS), SQL Server Reporting Services (SSRS), and SQL Server Analysis Services (SSAS) for data management and analysis.
+Uses Transact-SQL (T-SQL) as its query language.
+In summary, MySQL is an RDBMS that uses SQL, while SQL Server is a powerful Microsoft product with additional features for data management and analysis123. If you’re programming in PHP, MySQL is a good choice, whereas SQL Server excels in large production environments. Choose based on your project’s requirements! 🚀
+📍 How do you retrieve data from a database using a SELECT statement?
+📍 What is a JOIN in SQL? Explain different types of JOINs with examples.
+📍 How do you use the GROUP BY clause in SQL? Provide an example.
+📍 What is the difference between WHERE and HAVING clauses?
+📍 Explain the concept of indexing and how it improves query performance.
+📍 What is a subquery and when would you use one?
+📍 How do you use the DISTINCT keyword in SQL? Provide an example.
+📍 Explain the difference between UNION and UNION ALL.
+📍 What are aggregate functions in SQL? Provide examples.
+📍 How do you handle NULL values in SQL?
+📍 What is a primary key and why is it important?
+📍 Explain the concept of foreign keys and their role in relational databases.
+📍 How do you use the ORDER BY clause in SQL? Provide an example.
+📍 What is the difference between INNER JOIN and OUTER JOIN?
+📍 How do you write a SQL query to find the second highest salary in a table?
+📍 What are window functions in SQL and how are they used?
+📍 Explain the use of CASE statements in SQL. Provide an example.
+📍 How do you optimize SQL queries for better performance?
