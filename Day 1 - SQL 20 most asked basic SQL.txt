@@ -36,7 +36,10 @@ Widely used in large-scale enterprises due to its scalability and reliability.
 Offers tools like SQL Server Integration Services (SSIS), SQL Server Reporting Services (SSRS), and SQL Server Analysis Services (SSAS) for data management and analysis.
 Uses Transact-SQL (T-SQL) as its query language.
 In summary, MySQL is an RDBMS that uses SQL, while SQL Server is a powerful Microsoft product with additional features for data management and analysis123. If you’re programming in PHP, MySQL is a good choice, whereas SQL Server excels in large production environments. Choose based on your project’s requirements! 🚀
+
+
 📍 How do you retrieve data from a database using a SELECT statement?
+
 📍 What is a JOIN in SQL? Explain different types of JOINs with examples.
 📍 How do you use the GROUP BY clause in SQL? Provide an example.
 📍 What is the difference between WHERE and HAVING clauses?
